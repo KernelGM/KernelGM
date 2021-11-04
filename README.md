@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/KernelGM/d06308d2ee081a64933486f5a4e1f529/raw/2264ec9c69ba41eb1501d8a03a76f92667ce002e/gihubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Martins</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kernelgm&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kernelgm&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Junior Developer focused on helping people start programming 
 

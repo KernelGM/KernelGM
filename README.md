@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working at [A.Telecom](http://www.atelecom.com.br/)
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 All of my projects are available here, but 90% are private
 
-- 💬 Ask me about **Python, HTML and SQL**
+- 💬 You can ask me about **Python**
 
-- ⚡ Fun fact **Dota 2 noob Player 😜**
+- ⚡ **Dota 2 noob Player 😜**
 
 <br><br>
 
@@ -29,8 +29,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kernelgm&show_icons=true&theme=vision-friendly-dark" alt="KernelGM's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelgm&theme=vision-friendly-dark" alt="KernelGM's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelgm&theme=vision-friendly-dark" alt="KernelGM's most languages"/>
 </p>
 
 <br><br>

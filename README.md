@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo M.</h1>
+<h1 align="left">Sup <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, how are u doing?</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernelgm&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Developer focused on helping people start programming 

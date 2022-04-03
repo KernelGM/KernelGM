@@ -18,7 +18,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
 <p align="left">
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelgm&theme=vision-friendly-dark" alt="KernelGM's most languages"/>
 </p>

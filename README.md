@@ -2,15 +2,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo M.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernelgm&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Junior Developer focused on helping people start programming 
+- 🔥 Developer focused on helping people start programming 
 
 - 🔭 I’m currently working at [A.Telecom](http://www.atelecom.com.br/)
 
-- 👨‍💻 All of my projects are available here, but 90% are private
+- 👨‍💻 All of my projects are available here (99.97% are private)
 
 - 💬 You can ask me about **Python**
 
-- ⚡ **Dota 2 noob Player 😜**
+- ⚡ **Moba and RTS (greatest) Player 😜**
 
 <br><br>
 

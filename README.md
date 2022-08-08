@@ -1,6 +1,6 @@
 
 <h1 align="left">Sup bro, how are u doing?</h1>
-<p>(https://komarev.com/ghpvc/?username=kernelgm&style=flat-square&label=Visualiza%C3%A7%C3%B5es&color=gray)</p>
+![](https://komarev.com/ghpvc/?username=kernelgm&style=flat-square&label=Visualiza%C3%A7%C3%B5es&color=gray)
 
 - 🔥 Developer focused on helping people start programming 
 

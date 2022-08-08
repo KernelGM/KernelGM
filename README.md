@@ -14,6 +14,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&color=000000&labelColor=181717)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&color=000000&labelColor=007ACC)&nbsp;
 ![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-blue?style=flat-square&logo=Microsoft%20SQL%20Server&color=000000&labelColor=CC2927)&nbsp;

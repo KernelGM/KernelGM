@@ -1,7 +1,7 @@
 
 <h1 align="left">Sup bro, how are u doing?</h1>
 
-
+![](https://komarev.com/ghpvc/?username=kernelgm&style=flat-square&label=Visualiza%C3%A7%C3%B5es&color=000000)
 
 - 🔥 Developer focused on helping people start programming 
 
@@ -18,4 +18,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&color=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&color=000000)&nbsp;
 ![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-blue?style=flat-square&logo=Microsoft%20SQL%20Server&color=000000)&nbsp;
-![](https://komarev.com/ghpvc/?username=kernelgm&style=flat-square&label=Visualiza%C3%A7%C3%B5es&color=000000)

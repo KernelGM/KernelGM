@@ -12,7 +12,7 @@
 
 - ⚡ **Moba and RTS (greatest) Player 😜**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&color=3776AB)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&color=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&color=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&color=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&color=000000)&nbsp;

@@ -17,4 +17,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&color=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&color=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&color=000000)&nbsp;
-![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-blue?style=flat-square&logo=Microsoft%20SQL%20Server&color=000000)&nbsp;

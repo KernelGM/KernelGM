@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here (99.97% are private)
 
-- 💬 You can ask me about **Python**
+- 💬 You can ask me about **Python, AWS, PostgreSQL, Docker and FastAPI**
 
 - ⚡ **Moba and RTS (greatest) Player 😜**
 

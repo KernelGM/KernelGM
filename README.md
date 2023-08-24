@@ -1,20 +1,9 @@
+<a href="https://www.linkedin.com/in/kernelgm/" target="_blank">
 <div align="center">
-  <a href="https://www.linkedin.com/in/kernelgm/" target="_blank">
-    <img id="headerImage" src="" align="center" height="325" />
-  </a>
+<img src="https://raw.githubusercontent.com/kernelgm/kernelgm/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/kernelgm/kernelgm/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>
-
-<script>
-  const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  const headerImage = document.getElementById('headerImage');
-  if (prefersDark) {
-    headerImage.src = 'https://raw.githubusercontent.com/kernelgm/kernelgm/main/headergitdark.gif#gh-dark-mode-only';
-  } else {
-    headerImage.src = 'https://raw.githubusercontent.com/kernelgm/kernelgm/main/headergitlight.gif#gh-light-mode-only';
-  }
-</script>
-
+</a>
 
 # <div align="center">Developer Full Stack with React / Python</div>  
 
